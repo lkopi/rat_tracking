@@ -1,0 +1,8 @@
+*.pyc
+*.ipynb
+temp/
+.vscode/
+.idea/
+/models/
+/dataset/
+/external/

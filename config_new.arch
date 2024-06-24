@@ -1,0 +1,499 @@
+--VerDate	20190802
+--Meta	1
+	
+--Look
+-Form
+FLeft	285
+FTop	21
+FWidth	1574
+FHeight	817
+ColorButtons	-1
+-VideoWindow
+VWLeft	24
+VWHeight	632
+VWTop	16
+VWWidth	1088
+-CodeViewer
+CVLeft	1136
+CVTop	16
+CVWidth	360
+CVHeight	535
+ColorCodingSheet	-1
+-HRScreen
+HRCoding	0
+HRFilter	0
+HRFiltLow	0
+HRFiltHigh	240
+-MegjPanel
+MegjPanel	0
+-WaveDisp
+WavePanel	0
+Spectrogram	0
+SampleRate	8000
+SpectGain	0.00
+SpectColor	-1
+SpectRes	0.10
+-CoderButtons
+Subjects
+SubjCount	1
+Subject
+SubjKeyStrokes
+SKeyStroke	0
+SKeyStroke2	0
+SSequInd	0
+Categories
+CCount	3
+1. animal
+marker
+2. animal
+Buttons
+CBCount	18
+CBLeft	72
+CBTop	712
+CBWidth	152
+CBHeight	24
+CBName	Body sniffing 1
+CBCateg	0
+CBKeyStroke	65
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	32768
+*
+CBLeft	368
+CBTop	712
+CBWidth	136
+CBHeight	24
+CBName	Chasing 1
+CBCateg	0
+CBKeyStroke	68
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	16711935
+*
+CBLeft	224
+CBTop	712
+CBWidth	144
+CBHeight	24
+CBName	Head-to-head contact 1
+CBCateg	0
+CBKeyStroke	70
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	128
+*
+CBLeft	96
+CBTop	736
+CBWidth	144
+CBHeight	24
+CBName	Side-to-side contact 1
+CBCateg	0
+CBKeyStroke	89
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	16777215
+*
+CBLeft	1232
+CBTop	728
+CBWidth	72
+CBHeight	24
+CBName	check
+CBCateg	1
+CBKeyStroke	84
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	128
+*
+CBLeft	232
+CBTop	736
+CBWidth	144
+CBHeight	24
+CBName	Mounting 1
+CBCateg	0
+CBKeyStroke	67
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	32896
+*
+CBLeft	376
+CBTop	736
+CBWidth	152
+CBHeight	24
+CBName	Being mounted 1
+CBCateg	0
+CBKeyStroke	86
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	12632256
+*
+CBLeft	240
+CBTop	760
+CBWidth	152
+CBHeight	24
+CBName	Non-social behaviour 1
+CBCateg	0
+CBKeyStroke	82
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	8421504
+*
+CBLeft	720
+CBTop	712
+CBWidth	136
+CBHeight	24
+CBName	Body sniffing 2
+CBCateg	2
+CBKeyStroke	72
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	32768
+*
+CBLeft	992
+CBTop	712
+CBWidth	104
+CBHeight	24
+CBName	Chasing 2
+CBCateg	2
+CBKeyStroke	75
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	16711935
+*
+CBLeft	856
+CBTop	712
+CBWidth	136
+CBHeight	24
+CBName	Head-to-head contact 2
+CBCateg	2
+CBKeyStroke	76
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	128
+*
+CBLeft	744
+CBTop	736
+CBWidth	136
+CBHeight	24
+CBName	Side-to-side contact 2
+CBCateg	2
+CBKeyStroke	78
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	16777215
+*
+CBLeft	872
+CBTop	736
+CBWidth	128
+CBHeight	24
+CBName	Mounting 2
+CBCateg	2
+CBKeyStroke	188
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	32896
+*
+CBLeft	1000
+CBTop	736
+CBWidth	104
+CBHeight	24
+CBName	Being mounted 2
+CBCateg	2
+CBKeyStroke	190
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+*
+CBLeft	880
+CBTop	760
+CBWidth	136
+CBHeight	24
+CBName	Non-social behaviour 2
+CBCateg	2
+CBKeyStroke	79
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	8421504
+*
+CBLeft	1232
+CBTop	760
+CBWidth	72
+CBHeight	24
+CBName	switch up
+CBCateg	1
+CBKeyStroke	0
+CBKeyStroke2	0
+CBDotEvent	-1
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	255
+*
+CBLeft	1232
+CBTop	664
+CBWidth	72
+CBHeight	24
+CBName	missed
+CBCateg	1
+CBKeyStroke	0
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	8421504
+*
+CBLeft	1232
+CBTop	696
+CBWidth	72
+CBHeight	24
+CBName	disagreement
+CBCateg	1
+CBKeyStroke	0
+CBKeyStroke2	0
+CBDotEvent	0
+CBCounter	0
+CBMarker	0
+CBSequInd	0
+CBSameForAll	0
+CBInteraction	0
+CBIntDirection	0
+CBIntRecursive	0
+CBColor	12632256
+*
+--GlobalSetup
+TimeResolution	0.2000
+FrameBasedCoding	0
+TimeFormat	1
+-SaveSetup
+MetaSave	0
+RugSave	-1
+ZPSave	-1
+EndSave	-1
+NumSave	0
+STSave	-1
+PTSave	0
+LatSave	-1
+GyakSave	-1
+TekVSave	0
+CSumSave	0
+CPercSave	0
+CFreqSave	0
+HRMSave	0
+EverythingIOL	0
+AlphabeticalOrd	0
+AlwaysListSD	0
+LimitIntDepthList	1
+LeadingZeros	0
+OutputOnlyFor	1
+OverstrechAware	0
+StackHorizontal	0
+STEnab	-1
+PTEnab	-1
+LatEnab	-1
+GyakEnab	-1
+TekVEnab	0
+CSumEnab	0
+CPercEnab	0
+CFreqEnab	0
+HRMEnab	0
+OFSF	1
+ExtrAudMat	0000000000000000000
+ExtrHRMat	0000000000000000000
+ExtrTGMat	0000000000000000000
+ExtrVidMat	0000000000000000000
+ExtraMargin	0.00
+-GyakConf
+GyakSC	1
+GyakStart	0
+GyakSM	0111101111111111000
+GyakHorSave	0
+GyakOneLine	0
+-SumTimeConf
+SumSC	1
+SumStart	0
+SumSM	0111101111111111000
+SumTotalTimeSave	0
+SumTimeHorSave	0
+SumTimeOneLine	0
+SumTimeCalcLast	-1
+-CombSumTimeConf
+CSumSC	0
+CSumHorSave	0
+CSumOneLine	0
+CSumTotalTimeSave	0
+CSumTimeCalcLast	0
+-CombFreqConf
+CFreqSC	0
+CFreqHorSave	0
+CFreqOneLine	0
+-LatCalcConf
+LatSC	1
+LatStart	0
+LatSM	0111101111111111000
+LatHorSave	0
+LatOneLine	0
+LatHorLeng	10
+LatFirstOnly	-1
+LatAllSave	0
+LatMaxDur	1000000
+LatOneRow	0
+-TekVConf
+TekVSC	0
+TekVMaxSctrL	2.00
+TekVMaxGapL	2.00
+TekVDec	0
+TekVHorSave	0
+TekVOneLine	0
+TekVOrdMat	0
+-HRConf
+HRSC	0
+HRHorSave	0
+HROneLine	0
+-TimeSeqConf	0
+--
+Time	1. animal	marker	2. animal
+0.000	10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+10		19
+4		14
+4		14
+20		21
+10		19
+5		15
+5		15
+5		15
+5		15
+10		19
+10		19
